@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RDV-304</string>
+    <string-array name="numeros">
+        <item>1 sub red</item>
+        <item>2 sub redes</item>
+        <item>3 sub redes</item>
+        <item>4 sub redes</item>
+        <item>5 sub redes</item>
+        <item>6 sub redes</item>
+        <item>7 sub redes</item>
+        <item>8 sub redes</item>
+    </string-array>
+
+</resources>
